@@ -11,3 +11,4 @@
     <p><label>合計(円):<output name="total" for="price num"></output></label></p>
 </form>
 </body>
+</html>
